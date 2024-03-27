@@ -1,1 +1,1 @@
-# HYPOTHESIS-WITH-WEATHER-DATA-BASIC-AI--2-
+Began my journey in Machine Learning with this very basic algorithm.
